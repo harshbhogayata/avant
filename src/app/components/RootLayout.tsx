@@ -66,15 +66,8 @@ export function RootLayout() {
 
     observer.observe(document.body, { attributes: true });
 
-    // Global resize observer to recalculate GSAP scroll math when images load and change page height
-    const resizeObserver = new ResizeObserver(() => {
-      ScrollTrigger.refresh();
-    });
-    resizeObserver.observe(document.body);
-
     return () => {
       observer.disconnect();
-      resizeObserver.disconnect();
       lenis.destroy();
       gsap.ticker.remove(lenis.raf);
       ScrollTrigger.getAll().forEach((trigger) => trigger.kill());
