@@ -113,7 +113,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 202, 
-    img: "/images/runway/the_trouser.png", 
+    img: "/images/generated/trouser_main_1781890958332.png", 
     title: "The Trouser",
     price: "$1,200",
     category: "Tailoring",
@@ -121,7 +121,9 @@ const ATELIER_ARCHIVES = [
     desc: "Gravity-mapped to the micro-millimeter. The canvas waistband functions as a structural foundation, never collapsing.",
     sizes: ["44", "46", "48", "50", "52"],
     gallery: [
-      "/images/runway/the_trouser.png"
+      "/images/generated/trouser_main_1781890958332.png",
+      "/images/runway/the_trouser.png",
+      "/images/generated/trouser_angle2_1781891070038.png"
     ],
     richDetails: [
       { label: "Material", value: "100% Cold Wool. Silk-lined to the knee." },
@@ -132,7 +134,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 203, 
-    img: "/images/runway/the_blazer.png", 
+    img: "/images/generated/blazer_main_1781891057340.png", 
     title: "The Blazer",
     price: "$2,800",
     category: "Tailoring",
@@ -140,6 +142,8 @@ const ATELIER_ARCHIVES = [
     desc: "A rejection of soft tailoring. The chest piece is forged with horsehair canvas to maintain a severe, permanent geometric form.",
     sizes: ["46", "48", "50", "52", "54"],
     gallery: [
+      "/images/generated/blazer_main_1781891057340.png",
+      "/images/generated/blazer_angle1_1781891081588.png",
       "/images/runway/the_blazer.png"
     ],
     richDetails: [
@@ -151,7 +155,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 204, 
-    img: "/images/runway/the_waistcoat.png", 
+    img: "/images/generated/waistcoat_main_1781890887142.png", 
     title: "The Waistcoat",
     price: "$950",
     category: "Tailoring",
@@ -159,6 +163,8 @@ const ATELIER_ARCHIVES = [
     desc: "Designed not as an accessory, but as armor. The back panel is cut higher to force a straightened spine.",
     sizes: ["46", "48", "50", "52"],
     gallery: [
+      "/images/generated/waistcoat_main_1781890887142.png",
+      "/images/generated/waistcoat_angle1_1781890985503.png",
       "/images/runway/the_waistcoat.png"
     ],
     richDetails: [
@@ -170,7 +176,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 301, 
-    img: "/images/runway/the_dress.png", 
+    img: "/images/generated/dress_main_1781890899698.png", 
     title: "The Dress",
     price: "$5,200",
     category: "Fluidity",
@@ -178,6 +184,8 @@ const ATELIER_ARCHIVES = [
     desc: "A study in fluid mechanics. The dead-pupa silk interlining provides immense tensile strength while remaining acoustically silent.",
     sizes: ["34", "36", "38", "40"],
     gallery: [
+      "/images/generated/dress_main_1781890899698.png",
+      "/images/generated/dress_angle1_1781890998917.png",
       "/images/runway/the_dress.png"
     ],
     richDetails: [
@@ -189,7 +197,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 302, 
-    img: "/images/runway/the_gown.png", 
+    img: "/images/generated/gown_main_1781890910582.png", 
     title: "The Gown",
     price: "$8,500",
     category: "Fluidity",
@@ -197,6 +205,8 @@ const ATELIER_ARCHIVES = [
     desc: "Constructed entirely on the bias. It conforms to the body solely through gravity, without a single dart or seam to enforce shape.",
     sizes: ["34", "36", "38", "40", "42"],
     gallery: [
+      "/images/generated/gown_main_1781890910582.png",
+      "/images/generated/gown_angle1_1781891010828.png",
       "/images/runway/the_gown.png"
     ],
     richDetails: [
@@ -208,7 +218,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 303, 
-    img: "/images/runway/the_slip.png", 
+    img: "/images/generated/slip_main_1781890920756.png", 
     title: "The Slip",
     price: "$1,800",
     category: "Fluidity",
@@ -216,6 +226,8 @@ const ATELIER_ARCHIVES = [
     desc: "Stripped of all excess. The garment is held together by tension threads so fine they are virtually invisible to the naked eye.",
     sizes: ["34", "36", "38", "40"],
     gallery: [
+      "/images/generated/slip_main_1781890920756.png",
+      "/images/generated/slip_angle1_1781891024031.png",
       "/images/runway/the_slip.png"
     ],
     richDetails: [
@@ -227,7 +239,7 @@ const ATELIER_ARCHIVES = [
   },
   { 
     id: 304, 
-    img: "/images/runway/the_blouse.png", 
+    img: "/images/generated/blouse_main_1781890934479.png", 
     title: "The Blouse",
     price: "$1,400",
     category: "Fluidity",
@@ -235,6 +247,8 @@ const ATELIER_ARCHIVES = [
     desc: "Translucent yet rigid. The organza is treated to hold sharp creases, challenging the traditional softness associated with blouses.",
     sizes: ["34", "36", "38", "40", "42"],
     gallery: [
+      "/images/generated/blouse_main_1781890934479.png",
+      "/images/generated/blouse_angle1_1781891036912.png",
       "/images/runway/the_blouse.png"
     ],
     richDetails: [
